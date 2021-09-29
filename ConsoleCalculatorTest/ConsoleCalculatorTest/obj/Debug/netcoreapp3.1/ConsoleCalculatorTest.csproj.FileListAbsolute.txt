@@ -1,0 +1,40 @@
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.exe
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.deps.json
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.json
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.dev.json
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csprojAssemblyReference.cache
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfoInputs.cache
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfo.cs
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csproj.CoreCompileInputs.cache
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+E:\Proj\Calculator\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.genruntimeconfig.cache
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.exe
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.deps.json
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.json
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.dev.json
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csproj.AssemblyReference.cache
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfoInputs.cache
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfo.cs
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csproj.CoreCompileInputs.cache
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+D:\proj\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.genruntimeconfig.cache
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.exe
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.deps.json
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.json
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.runtimeconfig.dev.json
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\bin\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csprojAssemblyReference.cache
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfoInputs.cache
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.AssemblyInfo.cs
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.csproj.CoreCompileInputs.cache
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.dll
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.pdb
+E:\Новая папка (2)\calc\ConsoleCalculatorTest\ConsoleCalculatorTest\obj\Debug\netcoreapp3.1\ConsoleCalculatorTest.genruntimeconfig.cache
